@@ -16,9 +16,6 @@
     "cover": "istanbul cover _mocha",
     "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
-  "bin": {
-    "js-lrs": "./src/jsd3.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cschen1205/js-d3-charts-made-simple.git"
