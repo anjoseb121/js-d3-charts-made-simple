@@ -7,7 +7,7 @@
     "Caishun Chen <cschen1205@gmail.com>"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "build/jsd3.min.js",
   "directories": {
     "test": "test"
   },
